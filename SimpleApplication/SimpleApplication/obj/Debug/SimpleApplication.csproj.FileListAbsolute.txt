@@ -1,0 +1,6 @@
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe.config
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.pdb
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csprojResolveAssemblyReference.cache
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.exe
+c:\users\tien\documents\visual studio 2017\Projects\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.pdb

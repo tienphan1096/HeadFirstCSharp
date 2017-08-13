@@ -1,0 +1,9 @@
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\bin\Debug\Chapter 2 Exercise.exe.config
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\bin\Debug\Chapter 2 Exercise.exe
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\bin\Debug\Chapter 2 Exercise.pdb
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter 2 Exercise.csprojResolveAssemblyReference.cache
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter_2_Exercise.Form1.resources
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter_2_Exercise.Properties.Resources.resources
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter 2 Exercise.csproj.GenerateResource.Cache
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter 2 Exercise.exe
+c:\users\tien\documents\visual studio 2017\Projects\Chapter 2 Exercise\Chapter 2 Exercise\obj\Debug\Chapter 2 Exercise.pdb
